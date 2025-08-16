@@ -31,6 +31,18 @@ To get a local copy up and running, follow these simple steps:
     ```
 3.  **Open `index.html`:**
     Simply open the `index.html` file in your preferred web browser.
+## 📈 Challenges Faced
+1.   Designing a responsive and intuitive user interface.
+
+2.  Efficiently handling dynamic task management with JavaScript.
+
+3.  Ensuring data persistence using LocalStorage.
+
+4.  Implementing robust input validation.
+
+5.  Achieving consistent cross-browser compatibility.
+
+6. Maintaining modular and readable code structure.
 
 ## 💡 Learnings and Takeaways
 
